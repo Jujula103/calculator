@@ -1,6 +1,4 @@
 # calculator
-little thing that I made
+simple calculator to work with integers
 
-my first project to be uploaded to github
-
-to use it you need PyQt5 installed
+PyQt5 is required for the program to operate
